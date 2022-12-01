@@ -1,4 +1,4 @@
-# aop-part5-chapter01 - CleanArchitecture와 함께 ToDo앱 만들기
+# CleanArchitecture와 함께 ToDo앱 만들기
 
 ---
 
@@ -13,6 +13,8 @@
 7. ToDo 테스트 코드 작성하기 - 상세 - 수정
 8. ToDo 리스트 화면 구현하기
 9. ToDo 상세 구현하기
+
+## 이 챕터를 통해 배운 것
 
 
 ## 결과 화면
